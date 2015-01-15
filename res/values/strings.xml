@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Chouqian</string>
+    <string name="phonenotxt"/>
+    <string name="loginbutton">登录</string>
+    <string name="registerbutton">注册</string>
+
+</resources>
